@@ -1,0 +1,12 @@
+NPM e Yarn tem a mesma funcionalidade;
+
+npx instala usa e exclui os pacotes apos o uso;
+
+yarn start pra rodar; 
+
+as dependencias do projeto ficam nos nodes_modules;
+
+-> a index.html é o inicio padrao, a div ROOT é onde tem toda a info, 
+que vem da index.js; 
+
+-> o import APP presente na index.js é o export default da App.js (que retorna a funcao com HTML);
